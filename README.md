@@ -1,0 +1,2 @@
+Gate Pass Management System is a software application. It manages the entry and exit of the vehicle of employees and visitors. Gate Pass Management System is an efficient system to keep track of each vehicle entry and exit.Gate Pass Management System (GPMS) Allow you to manage all Incoming and Outgoing items from your office or company.
+Gate Pass Management System is available for use and it is easy to use and manage.The invitation will be kept in the database and will be available to the Security staffs and to the invitees. Admin can view any record at any point in time.
