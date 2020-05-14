@@ -1,0 +1,100 @@
+
+
+
+body{
+    margin:0;
+    padding:0;
+    background-image:url('./pic10.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+    #box{
+                position:relative;
+                top:50%;
+                left:50%;
+                top:120px;
+                left:450px;
+                color:white;
+                /* background-color: black; */
+                opacity:0.8;
+                display:flex;
+                flex-direction:column;
+                align-items:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.9);
+                align-items:center;
+                text-align:center;
+                height:350px;
+                width:450px;
+    
+            }
+    
+            .b2{
+            
+            font-size: 27px;
+            text-shadow: rgba(22, 16, 17, 0.5);
+            
+            text-decoration: underline;
+            font-family:'Times New Roman', Times, serif;
+            font-weight: lighter;
+            size: 10px;
+            
+            margin-top:0px;
+           
+        }
+        .b1{
+            display:block;
+            background-color:rgba(243, 240, 240, 0.904);
+            text-align:center;
+            margin-top: 10px;
+            padding:12px 28px;
+            margin-left:140px;
+            margin-bottom:30px;
+            font-size:12px;
+            border-radius:12px;
+            opacity:0.98;
+            cursor: pointer;
+            
+    
+
+
+        }
+        .b1:hover{
+           background-color:rgba(223, 171, 180, 0.726);
+        }
+        .mm{
+            margin-top:20px ;
+            width:300px;
+            height:30px;
+        }
+
+
+        #para{
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            color: rgb(37, 27, 19);
+            font-size:25px;
+        }
+        .pdiv{
+                  width:400px;
+            height:55px;
+            /* padding-bottom: 30px; */
+                    background-color: rgba(241, 225, 225, 0.822);
+                    margin:10px;
+                    margin-bottom: 10px;
+                    
+        }
+        .tt{
+            margin-top:20px ;
+            width:300px;
+            height:30px;
+            margin-bottom:30px;
+        }
+        .courier{
+            margin-bottom:30px;
+            margin-top:30px;
+        }
+         .f{
+             margin-right:10px;
+         }
+ 

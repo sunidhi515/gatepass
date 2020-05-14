@@ -1,0 +1,88 @@
+
+
+
+body{
+
+    margin:0;
+    padding:0;
+    background-image:url('./pic10.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+    #box{
+                position:relative;
+                top:50%;
+                left:50%;
+                top:100px;
+                left:450px;
+                color:white;
+                /* background-color: black; */
+                opacity:0.8;
+                display:flex;
+                flex-direction:column;
+                align-items:center;
+                box-shadow:0 5px 15px rgba(0,0,0,0.9);
+                align-items:center;
+                text-align:center;
+                height:300px;
+                width:450px;
+    
+            }
+    
+            .b2{
+            
+            font-size: 30px;
+            
+            font-weight:bold;
+            text-decoration: underline;
+            font-family:'Times New Roman', Times, serif;
+            font-weight: lighter;
+           
+        }
+        .b1{
+            display:block;
+            background-color:rgba(235, 224, 224, 0.904);
+            text-align:center;
+            margin-top: 60px;
+            margin-left:170px; 
+            
+            padding:12px 28px;
+            font-size:12px;
+            border-radius:12px;
+            opacity:0.98;
+            cursor: pointer;
+            
+    
+    
+        }
+        .units{
+            float:right;
+            position:relative;
+            right:20px;
+        }
+    
+    
+        #para{
+            font-family: 'Times New Roman', Times, serif;
+             font-weight: bold; 
+            color:black;
+            font-size:25px;
+        }
+        .pdiv{
+                  width:400px;
+            height:55px;
+            border-width: 5px;
+                    background-color: rgba(255, 246, 246, 0.822);
+                    margin:10px;
+                    margin-bottom: 30px;
+                    margin-left:30px;
+                    
+        }
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+          }
+    
+    
